@@ -1,0 +1,36 @@
+body {
+	background-color: #45d615
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+
+header img {
+	display: inline-block;
+	width: 70px;
+	height: 70px;
+
+}
+header h1 {
+	display: inline-block;
+}
+
+header h1 a {
+	display: inline-block;
+	color: #000;
+}
+
+.container {
+	font-size: 0;
+}
+section {
+	display: inline-block;
+	position: relative;
+	width: 33%;
+	font-size: 16px;
+	vertical-align: top;
+}
+
+section img {
+	width: 100%;
+}
